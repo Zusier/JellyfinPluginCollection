@@ -18,3 +18,26 @@
         ]
     }
 ]
+[
+  {
+    "category": "Metadata",
+    "guid": "b4b4353e-dc57-4398-82c1-de9079e7146a",
+    "name": "YoutubeMetadata",
+    "overview": "Pull YoutubeMetadata from info.json or YoutubeAPI.",
+    "owner": "ankenyr",
+    "description": "Pull YoutubeMetadata from info.json or YoutubeAPI.",
+    "versions": [
+      {
+        "checksum": "a14a399410f6449a1f250d51e111915b",
+        "changelog": "initial release",
+        "name": "YoutubeMetadata",
+        "targetAbi": "10.2.0",
+        "runtimes": "netframework,netcore",
+        "sourceUrl": "https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/v1.0.1/YoutubeMetadata.zip",
+        "filename": "YoutubeMetadata.zip",
+        "timestamp": "2020-04-19 00:00:00",
+        "version": "1.0.1"
+      }
+    ]
+  }
+]
