@@ -16,28 +16,185 @@
                 "timestamp": "2020-08-09 19:51:58"
             }
         ]
+    },
+    {
+        "guid": "e29621a5-fa9e-4330-982e-ef6e54c0cad2",
+        "name": "Gotify Notification",
+        "description": "You must have a Gotify server to use this plugin!\n",
+        "overview": "Sends notifications to your Gotify server",
+        "owner": "crobibero",
+        "category": "Notifications",
+        "versions": [
+            {
+                "version": "8.2020.0801.1650",
+                "changelog": "changelog\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.codyrobibero.dev/gotify-notification/gotify-notification_8.2020.0801.1650.zip",
+                "checksum": "4f286fed329206ff3c3c977ee35e317e",
+                "timestamp": "2020-08-01T16:51:15Z"
+            },
+            {
+                "version": "7.2020.0717.2043",
+                "changelog": "changelog\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.codyrobibero.dev/gotify-notification/gotify-notification_7.2020.0717.2043.zip",
+                "checksum": "487f4ca4a06154948c0b6786fc2833a3",
+                "timestamp": "2020-07-17T20:43:21Z"
+            }
+        ]
+    },
+    {
+        "guid": "F240D6BE-5743-441B-87F1-A70ECAC42642",
+        "name": "Pushover",
+        "description": "Send messages to a wide range of devices through Pushover.",
+        "overview": "Send notifications via Pushover",
+        "owner": "crobibero",
+        "category": "Notifications",
+        "versions": [
+            {
+                "version": "4.2020.0717.2044",
+                "changelog": "changelog\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.codyrobibero.dev/pushover/pushover_4.2020.0717.2044.zip",
+                "checksum": "0f07b3b83e4d21cde7e89ad210eda175",
+                "timestamp": "2020-07-17T20:45:08Z"
+            }
+        ]
+    },
+    {
+        "guid": "69104C31-D23F-4040-B99C-8913C09751D6",
+        "name": "TMDb Trailers",
+        "description": "Watch trailers from TMDb\n",
+        "overview": "Watch trailers from TMDb",
+        "owner": "crobibero",
+        "category": "Channels",
+        "versions": [
+            {
+                "version": "4.2020.0908.0010",
+                "changelog": "Only get stream url when requested\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.codyrobibero.dev/tmdb-trailers/tmdb-trailers_4.2020.0908.0010.zip",
+                "checksum": "7f71b325a30d0233bd336d833421518b",
+                "timestamp": "2020-09-08T00:11:00Z"
+            },
+            {
+                "version": "3.2020.0828.2000",
+                "changelog": "Add configuration Add additional video sources Actually add item as trailer\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.codyrobibero.dev/tmdb-trailers/tmdb-trailers_3.2020.0828.2000.zip",
+                "checksum": "cf5c1ca24a7fec8841ace75d4278112a",
+                "timestamp": "2020-08-28T20:00:58Z"
+            },
+            {
+                "version": "2.2020.0828.0118",
+                "changelog": "Add configuration Add additional video sources\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.codyrobibero.dev/tmdb-trailers/tmdb-trailers_2.2020.0828.0118.zip",
+                "checksum": "56b9e2b6b1c9a99020d7826da56e059a",
+                "timestamp": "2020-08-28T01:18:45Z"
+            },
+            {
+                "version": "1.2020.0827.2257",
+                "changelog": "Initial release\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.codyrobibero.dev/tmdb-trailers/tmdb-trailers_1.2020.0827.2257.zip",
+                "checksum": "1cf0ac85360c78004450fb9c4a650b33",
+                "timestamp": "2020-08-27T22:58:06Z"
+            }
+        ]
+    },
+    {
+        "guid": "71552A5A-5C5C-4350-A2AE-EBE451A30173",
+        "name": "Discord",
+        "description": "Sends notifications to Discord via webhooks.\n",
+        "overview": "Sends notifications to Discord",
+        "owner": "crobibero",
+        "category": "Notifications",
+        "versions": [
+            {
+                "version": "1.2020.0910.0255",
+                "changelog": "Initial release\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.codyrobibero.dev/discord/discord_1.2020.0910.0255.zip",
+                "checksum": "80a333bb071e99e0905b79fb78115ea3",
+                "timestamp": "2020-09-10T02:56:08Z"
+            },
+            {
+                "version": "1.2020.0910.0157",
+                "changelog": "Initial release\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.codyrobibero.dev/discord/discord_1.2020.0910.0157.zip",
+                "checksum": "c0b71bfe59759f2dce607a0f5e2bf851",
+                "timestamp": "2020-09-10T01:58:00Z"
+            },
+            {
+                "version": "1.2020.0908.0004",
+                "changelog": "Initial release\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.codyrobibero.dev/discord/discord_1.2020.0908.0004.zip",
+                "checksum": "1288188d933a47f5e96e5e9b3590472b",
+                "timestamp": "2020-09-08T00:04:42Z"
+            },
+            {
+                "version": "1.2020.0906.2209",
+                "changelog": "Initial release\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.codyrobibero.dev/discord/discord_1.2020.0906.2209.zip",
+                "checksum": "15c7574c58935570b62e6e4ecdc2883a",
+                "timestamp": "2020-09-06T22:10:03Z"
+            },
+            {
+                "version": "1.2020.0905.1915",
+                "changelog": "Initial release\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.codyrobibero.dev/discord/discord_1.2020.0905.1915.zip",
+                "checksum": "594fa23b2add69ce86c4ff759e7e0ef6",
+                "timestamp": "2020-09-05T19:15:41Z"
+            }
+        ]
+    },
+    {
+        "guid": "07CAEF58-A94B-4211-A62C-F9774E04EBDB",
+        "name": "Simkl",
+        "description": "Scrobble your watched Movies, TV Shows and Anime to Simkl and share your progress with friends!\n",
+        "overview": "Scrobble to Simkl",
+        "owner": "crobibero",
+        "category": "General",
+        "versions": [
+            {
+                "version": "1.2020.0908.2235",
+                "changelog": "Initial release\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.codyrobibero.dev/simkl/simkl_1.2020.0908.2235.zip",
+                "checksum": "cb580e3c166f786ef0e357092dd7c5e9",
+                "timestamp": "2020-09-08T22:36:15Z"
+            },
+            {
+                "version": "1.2020.0908.2113",
+                "changelog": "Initial release\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.codyrobibero.dev/simkl/simkl_1.2020.0908.2113.zip",
+                "checksum": "a28f30e4c911d8892dc91f0ec65b095c",
+                "timestamp": "2020-09-08T21:14:24Z"
+            }
+        ]
+    },
+    {
+        "guid": "71552A5A-5C5C-4350-A2AE-EBE451A30173",
+        "name": "Webhook",
+        "description": "Sends notifications to destinations via webhooks.\n",
+        "overview": "Sends notifications.",
+        "owner": "crobibero",
+        "category": "Notifications",
+        "versions": [
+            {
+                "version": "1.2020.0911.2243",
+                "changelog": "Initial release\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.codyrobibero.dev/webhook/webhook_1.2020.0911.2243.zip",
+                "checksum": "0389a1fb6d480a2707da0fdf65f24fc8",
+                "timestamp": "2020-09-11T22:43:28Z"
+            }
+        ]
     }
-]
-[
-  {
-    "category": "Metadata",
-    "guid": "b4b4353e-dc57-4398-82c1-de9079e7146a",
-    "name": "YoutubeMetadata",
-    "overview": "Pull YoutubeMetadata from info.json or YoutubeAPI.",
-    "owner": "ankenyr",
-    "description": "Pull YoutubeMetadata from info.json or YoutubeAPI.",
-    "versions": [
-      {
-        "checksum": "a14a399410f6449a1f250d51e111915b",
-        "changelog": "initial release",
-        "name": "YoutubeMetadata",
-        "targetAbi": "10.2.0",
-        "runtimes": "netframework,netcore",
-        "sourceUrl": "https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/v1.0.1/YoutubeMetadata.zip",
-        "filename": "YoutubeMetadata.zip",
-        "timestamp": "2020-04-19 00:00:00",
-        "version": "1.0.1"
-      }
-    ]
-  }
 ]
